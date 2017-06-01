@@ -13,7 +13,7 @@ while loop == 1:
         Password.append(random.choice(list1))
         
     print('7'.join(Password))
-	time.sleep(1)
+    time.sleep(1)
 
     Password= []
 
